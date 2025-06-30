@@ -1,0 +1,7 @@
+flask
+langchain
+google-generativeai
+sentence-transformers
+faiss-cpu
+python-dotenv
+PyPDF2
